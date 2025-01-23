@@ -5,7 +5,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [Mr-Aaron-Ward](FIXTHISURL-https://github.com/Mr-Aaron-Ward)
+1. [Mr-Aaron-Ward](https://github.com/Mr-Aaron-Ward)
 
 ## Part 2 - Research
 
